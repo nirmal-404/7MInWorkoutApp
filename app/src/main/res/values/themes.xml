@@ -15,7 +15,6 @@
         <item name="windowActionBarOverlay">true</item>
     </style>
 
-
     <style name="ToolbarTheme" parent="@style/ThemeOverlay.MaterialComponents.ActionBar">
         <item name="colorControlNormal" >@color/toolbar_color_control_normal</item>
     </style>
