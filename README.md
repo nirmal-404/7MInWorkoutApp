@@ -10,7 +10,7 @@ The **7-Minute Workout App** is designed to provide a quick, efficient exercise 
 
 Whether you're aiming for a fast workout or tracking your fitness journey, this app offers a **simple** and **effective** solution.
 
-## Sceenshots
+## Screenshots
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4c7f46de-5b57-4ed6-a39e-7d6412f26bc4" alt="image 1" style="max-width: 100%; height: auto; width: 300px; object-fit: cover; border-radius: 10px;">
   <img src="https://github.com/user-attachments/assets/7609ad0d-ed82-4ac5-852d-a8dfe1d0b1d9" alt="image 2" style="max-width: 100%; height: auto; width: 300px; object-fit: cover; border-radius: 10px;">
