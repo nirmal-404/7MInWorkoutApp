@@ -1,6 +1,14 @@
-# 7MInWorkoutApp
-7Min Workout App - Build using xml
+# 7-Minute Workout App
 
+The **7-Minute Workout App** is designed to provide a quick, efficient exercise routine with **12 different exercises**, each lasting **30 seconds**, and a **10-second rest interval** between them.
+
+## Key Features:
+- **Exercise Routine**: A high-intensity workout with 12 exercises, each lasting 30 seconds.
+- **Rest Intervals**: 10-second rest intervals between exercises for a well-rounded workout.
+- **BMI Calculator**: Supports both **metric** and **US units**, allowing users to track their fitness progress.
+- **Workout History**: The app stores your workout history, enabling users to monitor their workout patterns over time.
+
+Whether you're aiming for a fast workout or tracking your fitness journey, this app offers a **simple** and **effective** solution.
 
 
 <div align="center">
