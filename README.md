@@ -1,5 +1,5 @@
 # 7MInWorkoutApp
-&amp;Min Workout App - Build using xml
+7Min Workout App - Build using xml
 
 
 
