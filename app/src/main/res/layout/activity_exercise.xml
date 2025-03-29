@@ -22,7 +22,7 @@
         android:id="@+id/tvTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="GET READY FOR"
+        android:text="@string/get_ready_for"
         android:textColor="@color/colorAccent"
         android:textSize="22sp"
         android:textStyle="bold"
@@ -83,7 +83,7 @@
         android:layout_marginTop="20dp"
         android:textColor="@color/black"
         app:layout_constraintBottom_toTopOf="@id/tvUpcomingExerciseName"
-        android:text="UPCOMING EXERCISE : "
+        android:text="@string/upcoming_exercise"
         android:textSize="16sp" />
 
     <TextView
@@ -116,7 +116,7 @@
         android:id="@+id/tvExerciseName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="ExerciseName"
+        android:text="@string/exercise_name"
         android:textColor="@color/colorAccent"
         android:textSize="22sp"
         android:textStyle="bold"

@@ -30,7 +30,7 @@
             android:button="@null"
             android:checked="true"
             android:gravity="center"
-            android:text="METRIC UNITS"
+            android:text="@string/metric_units"
             android:textColor="@drawable/drawable_units_tab_text_color_selector"
             android:textSize="16sp"
             android:textStyle="bold" />
@@ -44,7 +44,7 @@
             android:button="@null"
             android:checked="false"
             android:gravity="center"
-            android:text="US UNITS"
+            android:text="@string/us_units"
             android:textColor="@drawable/drawable_units_tab_text_color_selector"
             android:textSize="16sp"
             android:textStyle="bold" />
@@ -64,7 +64,7 @@
             android:id="@+id/etMetricUnitWeight"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="WEIGHT (in kg)"
+            android:hint="@string/weight_in_kg"
             android:inputType="numberDecimal"
             android:textSize="16sp" />
     </com.google.android.material.textfield.TextInputLayout>
@@ -84,7 +84,7 @@
             android:id="@+id/etMetricUnitHeight"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="HEIGHT (in cm)"
+            android:hint="@string/height_in_cm"
             android:inputType="numberDecimal"
             android:textSize="16sp" />
     </com.google.android.material.textfield.TextInputLayout>
@@ -102,14 +102,12 @@
             android:id="@+id/etUsMetricUnitWeight"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="WEIGHT (in kg)"
+            android:hint="@string/weight_in_lbs"
             android:inputType="numberDecimal"
             android:textSize="16sp" />
     </com.google.android.material.textfield.TextInputLayout>
     <!--positioned below tilMetricUnitWeight-->
 
-    <!--start-->
-    <!--Todo add us unit views-->
     <com.google.android.material.textfield.TextInputLayout
         android:layout_below="@id/tilMetricUnitWeight"
         android:id="@+id/tilMetricUsUnitHeightFeet"
@@ -129,7 +127,7 @@
             android:id="@+id/etUsMetricUnitHeightFeet"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Feet"
+            android:hint="@string/feet"
             android:inputType="numberDecimal"
             android:textSize="16sp" />
     </com.google.android.material.textfield.TextInputLayout>
@@ -159,7 +157,7 @@
             android:id="@+id/etUsMetricUnitHeightInch"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Inch"
+            android:hint="@string/inch"
             android:inputType="numberDecimal"
             android:textSize="16sp" />
     </com.google.android.material.textfield.TextInputLayout>
@@ -182,7 +180,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="YOUR BMI"
+            android:text="@string/your_bmi"
             android:textAllCaps="true"
             android:textSize="16sp" />
 
@@ -226,7 +224,7 @@
         android:layout_marginEnd="10dp"
         android:layout_marginBottom="10dp"
         android:backgroundTint="@color/colorAccent"
-        android:text="CALCULATE"
+        android:text="@string/calculate"
         android:textColor="#FFFFFF"
         android:textSize="18sp" />
 </RelativeLayout>
